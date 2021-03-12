@@ -1,0 +1,4 @@
+C:\Users\Steven\source\repos\Week1-ConsoleCSVDataReader\Week1-ConsoleCSVDataReader\obj\Debug\netcoreapp3.1\Week1-ConsoleCSVDataReader.csprojAssemblyReference.cache
+C:\Users\Steven\source\repos\Week1-ConsoleCSVDataReader\Week1-ConsoleCSVDataReader\obj\Debug\netcoreapp3.1\Week1-ConsoleCSVDataReader.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\Week1-ConsoleCSVDataReader\Week1-ConsoleCSVDataReader\obj\Debug\netcoreapp3.1\Week1-ConsoleCSVDataReader.AssemblyInfo.cs
+C:\Users\Steven\source\repos\Week1-ConsoleCSVDataReader\Week1-ConsoleCSVDataReader\obj\Debug\netcoreapp3.1\Week1-ConsoleCSVDataReader.csproj.CoreCompileInputs.cache
